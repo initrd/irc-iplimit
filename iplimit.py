@@ -111,6 +111,11 @@ def dumpJSON():
         exceptions.append(t)
     return json.dumps(exceptions)
 
+@app.route('/contribute.json')
+def dumpContributeJSON():
+    f = open('contribute.json', 'r')
+    return f.read()
+
 if __name__ == '__main__':
     options = process_arguments()
     if not options.config:

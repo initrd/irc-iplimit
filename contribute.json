@@ -1,0 +1,13 @@
+{
+  "name": "Mozilla IRC iplimit",
+  "description": "Self-service tool for adding IRC exceptions for one's IP address",
+  "repository": {
+    "url": "https://github.com/mozilla/irc-iplimit",
+    "license": "MPL2"
+  },
+  "keywords": [
+    "Python",
+    "Flask",
+    "JSON"
+  ]
+}
