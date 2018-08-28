@@ -9,5 +9,10 @@
     "Python",
     "Flask",
     "JSON"
-  ]
+  ],
+	"participate": {
+		"home": "https://iplimit.irc.mozilla.org/",
+    "irc": "ircs://irc.mozilla.org",
+    "irc-contacts": "ashish"
+  }
 }
