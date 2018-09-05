@@ -10,9 +10,9 @@
     "Flask",
     "JSON"
   ],
-	"participate": {
-		"home": "https://iplimit.irc.mozilla.org/",
-    "irc": "ircs://irc.mozilla.org",
-    "irc-contacts": "ashish"
+  "participate": {
+    "home": "https://iplimit.irc.mozilla.org/",
+    "irc": "ircs://irc.mozilla.org:6697",
+    "irc-contacts": "#moc"
   }
 }
